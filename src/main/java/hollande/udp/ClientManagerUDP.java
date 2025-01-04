@@ -23,7 +23,7 @@ public class ClientManagerUDP {
         InetAddress destination = InetAddress.getByName("localhost");
 
         String chaine = "";
-        System.out.println("Tapez vos phrases ou FIN pour arrêter :");
+        System.out.println("Tapez un loggin et un mot de passe ou FIN pour arrêter :");
 
         while(!chaine.equalsIgnoreCase("FIN")) {
             // lecture clavier
@@ -31,7 +31,8 @@ public class ClientManagerUDP {
             // on récupère un tableau des octets de la chaîne
             byte [] octetsChaine = chaine.getBytes();
             // objet Java permettant d'envoyer un datagramme UDP vers la machine destination et le port 28415
-            DatagramPacket emission = new DatagramPacket(octetsChaine, octetsChaine.length, destination, 28415);
+            DatagramPacket emission = new DatagramPacket(
+                    octetsChaine, octetsChaine.length, destination, 28415);
 
             // on envoie le datagramme UDP
             socket.send(emission);

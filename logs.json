@@ -1,0 +1,68 @@
+{"host":"127.0.0.1","port":60834,"proto":"TCP","type":"CONNECT","login":"N/A","result":"accepted","date":"Fri Jan 03 19:45:03 CET 2025"}
+{"host":"localhost","port":28415,"proto":"TCP","type":"ERROR","login":"N/A","result":"Address already in use: bind","date":"Fri Jan 03 19:55:47 CET 2025"}
+{"host":"localhost","port":28414,"proto":"TCP","type":"ERROR","login":"N/A","result":"Address already in use: bind","date":"Fri Jan 03 19:55:47 CET 2025"}
+{"host":"localhost","port":28414,"proto":"UDP","type":"ERROR","login":"N/A","result":"Address already in use: bind","date":"Fri Jan 03 19:55:47 CET 2025"}
+{"host":"localhost","port":28415,"proto":"UDP","type":"ERROR","login":"N/A","result":"Address already in use: bind","date":"Fri Jan 03 19:55:47 CET 2025"}
+{"host":"localhost","port":28414,"proto":"UDP","type":"ERROR","login":"N/A","result":"Address already in use: bind","date":"Fri Jan 03 19:56:39 CET 2025"}
+{"host":"localhost","port":28415,"proto":"TCP","type":"ERROR","login":"N/A","result":"Address already in use: bind","date":"Fri Jan 03 19:56:39 CET 2025"}
+{"host":"localhost","port":28415,"proto":"UDP","type":"ERROR","login":"N/A","result":"Address already in use: bind","date":"Fri Jan 03 19:56:39 CET 2025"}
+{"host":"localhost","port":28414,"proto":"TCP","type":"ERROR","login":"N/A","result":"Address already in use: bind","date":"Fri Jan 03 19:56:39 CET 2025"}
+{"host":"127.0.0.1","port":60948,"proto":"TCP","type":"CONNECT","login":"N/A","result":"accepted","date":"Fri Jan 03 19:59:42 CET 2025"}
+{"host":"127.0.0.1","port":60952,"proto":"TCP","type":"CONNECT","login":"N/A","result":"accepted","date":"Fri Jan 03 19:59:51 CET 2025"}
+{"host":"127.0.0.1","port":63798,"proto":"UDP","type":"RECEIVE","login":"N/A","result":"Chk Toto Toto","date":"Fri Jan 03 20:01:18 CET 2025"}
+{"host":"127.0.0.1","port":63798,"proto":"UDP","type":"SEND","login":"N/A","result":"GOOD","date":"Fri Jan 03 20:01:18 CET 2025"}
+{"host":"127.0.0.1","port":63798,"proto":"UDP","type":"RECEIVE","login":"N/A","result":"Fello Tello","date":"Fri Jan 03 20:01:27 CET 2025"}
+{"host":"127.0.0.1","port":63798,"proto":"UDP","type":"SEND","login":"N/A","result":"BAD","date":"Fri Jan 03 20:01:27 CET 2025"}
+{"host":"127.0.0.1","port":63799,"proto":"UDP","type":"RECEIVE","login":"N/A","result":"ADD Fello Barry","date":"Fri Jan 03 20:01:43 CET 2025"}
+{"host":"127.0.0.1","port":63799,"proto":"UDP","type":"SEND","login":"N/A","result":"DONE","date":"Fri Jan 03 20:01:43 CET 2025"}
+{"host":"127.0.0.1","port":63799,"proto":"UDP","type":"RECEIVE","login":"N/A","result":"CHK Fello Barry","date":"Fri Jan 03 20:01:52 CET 2025"}
+{"host":"127.0.0.1","port":63799,"proto":"UDP","type":"SEND","login":"N/A","result":"BAD","date":"Fri Jan 03 20:01:52 CET 2025"}
+{"host":"127.0.0.1","port":63799,"proto":"UDP","type":"RECEIVE","login":"N/A","result":"chk Toto Toto","date":"Fri Jan 03 20:02:09 CET 2025"}
+{"host":"127.0.0.1","port":63799,"proto":"UDP","type":"SEND","login":"N/A","result":"GOOD","date":"Fri Jan 03 20:02:09 CET 2025"}
+{"host":"127.0.0.1","port":61445,"proto":"TCP","type":"CONNECT","login":"N/A","result":"accepted","date":"Fri Jan 03 21:30:26 CET 2025"}
+{"host":"127.0.0.1","port":54099,"proto":"UDP","type":"RECEIVE","login":"N/A","result":"chk Toto Toto","date":"Fri Jan 03 22:39:46 CET 2025"}
+{"host":"127.0.0.1","port":54099,"proto":"UDP","type":"SEND","login":"N/A","result":"GOOD","date":"Fri Jan 03 22:39:46 CET 2025"}
+{"host":"127.0.0.1","port":54099,"proto":"UDP","type":"RECEIVE","login":"N/A","result":"CHK Fello Barry","date":"Fri Jan 03 22:40:00 CET 2025"}
+{"host":"127.0.0.1","port":54099,"proto":"UDP","type":"SEND","login":"N/A","result":"BAD","date":"Fri Jan 03 22:40:00 CET 2025"}
+{"host":"127.0.0.1","port":54099,"proto":"UDP","type":"RECEIVE","login":"N/A","result":"ADD Fello Barry","date":"Fri Jan 03 22:40:15 CET 2025"}
+{"host":"127.0.0.1","port":54099,"proto":"UDP","type":"SEND","login":"N/A","result":"BAD","date":"Fri Jan 03 22:40:15 CET 2025"}
+{"host":"127.0.0.1","port":54098,"proto":"UDP","type":"RECEIVE","login":"N/A","result":"chk Toto Toto","date":"Fri Jan 03 22:40:29 CET 2025"}
+{"host":"127.0.0.1","port":54098,"proto":"UDP","type":"SEND","login":"N/A","result":"GOOD","date":"Fri Jan 03 22:40:29 CET 2025"}
+{"host":"127.0.0.1","port":54098,"proto":"UDP","type":"RECEIVE","login":"N/A","result":"ADD Fello BARRY ","date":"Fri Jan 03 22:40:37 CET 2025"}
+{"host":"127.0.0.1","port":54098,"proto":"UDP","type":"SEND","login":"N/A","result":"DONE","date":"Fri Jan 03 22:40:37 CET 2025"}
+{"host":"127.0.0.1","port":54098,"proto":"UDP","type":"RECEIVE","login":"N/A","result":"CHK Fello BARRY","date":"Fri Jan 03 22:40:46 CET 2025"}
+{"host":"127.0.0.1","port":54098,"proto":"UDP","type":"SEND","login":"N/A","result":"GOOD","date":"Fri Jan 03 22:40:46 CET 2025"}
+{"host":"127.0.0.1","port":54099,"proto":"UDP","type":"RECEIVE","login":"N/A","result":"CHK Fello BARRY","date":"Fri Jan 03 22:40:59 CET 2025"}
+{"host":"127.0.0.1","port":54099,"proto":"UDP","type":"SEND","login":"N/A","result":"BAD","date":"Fri Jan 03 22:40:59 CET 2025"}
+{"host":"127.0.0.1","port":54099,"proto":"UDP","type":"RECEIVE","login":"N/A","result":"FIN","date":"Fri Jan 03 22:41:07 CET 2025"}
+{"host":"127.0.0.1","port":54099,"proto":"UDP","type":"SEND","login":"N/A","result":"BAD","date":"Fri Jan 03 22:41:07 CET 2025"}
+{"host":"127.0.0.1","port":54098,"proto":"UDP","type":"RECEIVE","login":"N/A","result":"FIN","date":"Fri Jan 03 22:41:14 CET 2025"}
+{"host":"127.0.0.1","port":54098,"proto":"UDP","type":"SEND","login":"N/A","result":"BAD","date":"Fri Jan 03 22:41:14 CET 2025"}
+{"host":"127.0.0.1","port":53811,"proto":"UDP","type":"RECEIVE","login":"N/A","result":"chk Toto Toto","date":"Fri Jan 03 22:52:07 CET 2025"}
+{"host":"127.0.0.1","port":53811,"proto":"UDP","type":"SEND","login":"N/A","result":"GOOD","date":"Fri Jan 03 22:52:07 CET 2025"}
+{"host":"127.0.0.1","port":53811,"proto":"UDP","type":"RECEIVE","login":"N/A","result":"FFGS","date":"Fri Jan 03 22:52:11 CET 2025"}
+{"host":"127.0.0.1","port":53811,"proto":"UDP","type":"SEND","login":"N/A","result":"BAD","date":"Fri Jan 03 22:52:11 CET 2025"}
+{"host":"127.0.0.1","port":53811,"proto":"UDP","type":"RECEIVE","login":"N/A","result":"ADD Fello BARRY","date":"Fri Jan 03 22:52:21 CET 2025"}
+{"host":"127.0.0.1","port":53811,"proto":"UDP","type":"SEND","login":"N/A","result":"DONE","date":"Fri Jan 03 22:52:21 CET 2025"}
+{"host":"127.0.0.1","port":53811,"proto":"UDP","type":"RECEIVE","login":"N/A","result":"CHK Fello BARRY ","date":"Fri Jan 03 22:52:30 CET 2025"}
+{"host":"127.0.0.1","port":53811,"proto":"UDP","type":"SEND","login":"N/A","result":"GOOD","date":"Fri Jan 03 22:52:30 CET 2025"}
+{"host":"127.0.0.1","port":65481,"proto":"UDP","type":"RECEIVE","login":"N/A","result":"chk Fello BARRY","date":"Fri Jan 03 22:53:25 CET 2025"}
+{"host":"127.0.0.1","port":65481,"proto":"UDP","type":"SEND","login":"N/A","result":"GOOD","date":"Fri Jan 03 22:53:25 CET 2025"}
+{"host":"127.0.0.1","port":59556,"proto":"UDP","type":"RECEIVE","login":"N/A","result":"CHK Fello BARRY","date":"Fri Jan 03 22:54:16 CET 2025"}
+{"host":"127.0.0.1","port":59556,"proto":"UDP","type":"SEND","login":"N/A","result":"BAD","date":"Fri Jan 03 22:54:16 CET 2025"}
+{"host":"127.0.0.1","port":59556,"proto":"UDP","type":"RECEIVE","login":"N/A","result":"CHK Toto Toto","date":"Fri Jan 03 22:54:37 CET 2025"}
+{"host":"127.0.0.1","port":59556,"proto":"UDP","type":"SEND","login":"N/A","result":"GOOD","date":"Fri Jan 03 22:54:37 CET 2025"}
+{"host":"127.0.0.1","port":65481,"proto":"UDP","type":"RECEIVE","login":"N/A","result":"ADD BARRY Dalas","date":"Fri Jan 03 22:54:58 CET 2025"}
+{"host":"127.0.0.1","port":65481,"proto":"UDP","type":"SEND","login":"N/A","result":"DONE","date":"Fri Jan 03 22:54:58 CET 2025"}
+{"host":"127.0.0.1","port":59556,"proto":"UDP","type":"RECEIVE","login":"N/A","result":"chk BARRY DALAS","date":"Fri Jan 03 22:55:17 CET 2025"}
+{"host":"127.0.0.1","port":59556,"proto":"UDP","type":"SEND","login":"N/A","result":"BAD","date":"Fri Jan 03 22:55:17 CET 2025"}
+{"host":"127.0.0.1","port":59556,"proto":"UDP","type":"RECEIVE","login":"N/A","result":"CHK BARRY Dalas","date":"Fri Jan 03 22:55:38 CET 2025"}
+{"host":"127.0.0.1","port":59556,"proto":"UDP","type":"SEND","login":"N/A","result":"BAD","date":"Fri Jan 03 22:55:38 CET 2025"}
+{"host":"127.0.0.1","port":59556,"proto":"UDP","type":"RECEIVE","login":"N/A","result":"FIN","date":"Fri Jan 03 22:55:44 CET 2025"}
+{"host":"127.0.0.1","port":59556,"proto":"UDP","type":"SEND","login":"N/A","result":"BAD","date":"Fri Jan 03 22:55:44 CET 2025"}
+{"host":"127.0.0.1","port":65481,"proto":"UDP","type":"RECEIVE","login":"N/A","result":"FIN","date":"Fri Jan 03 22:55:50 CET 2025"}
+{"host":"127.0.0.1","port":65481,"proto":"UDP","type":"SEND","login":"N/A","result":"BAD","date":"Fri Jan 03 22:55:50 CET 2025"}
+{"host":"127.0.0.1","port":53811,"proto":"UDP","type":"RECEIVE","login":"N/A","result":"FIN","date":"Fri Jan 03 22:55:58 CET 2025"}
+{"host":"127.0.0.1","port":53811,"proto":"UDP","type":"SEND","login":"N/A","result":"BAD","date":"Fri Jan 03 22:55:58 CET 2025"}
+{"host":"127.0.0.1","port":53810,"proto":"UDP","type":"RECEIVE","login":"N/A","result":"FIN","date":"Fri Jan 03 22:56:06 CET 2025"}
+{"host":"127.0.0.1","port":53810,"proto":"UDP","type":"SEND","login":"N/A","result":"BAD","date":"Fri Jan 03 22:56:06 CET 2025"}

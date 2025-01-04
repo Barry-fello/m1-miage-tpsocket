@@ -26,7 +26,7 @@ public class ClientCheckerTCP {
         while(true) {
             // lecture clavier
             chaine = scanner.nextLine();
-            sortieSocket.println(chaine); // on envoie la chaine au serveur
+            sortieSocket.println(chaine);
             if(chaine.equalsIgnoreCase("FIN")){
                 break;
             }
