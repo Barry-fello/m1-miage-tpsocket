@@ -4,8 +4,14 @@ import java.net.DatagramPacket;
 import java.net.DatagramSocket;
 import java.net.InetAddress;
 import java.util.Scanner;
-
+/**
+ * 
+ */
 public class ClientCheckerUDP {
+    /**
+     * @param args
+     * @throws Exception
+     */
     public static void main(String[] args) throws Exception {
         // Création d'un socket UDP sur un port choisi par le système
         DatagramSocket socket = new DatagramSocket();
@@ -23,7 +29,7 @@ public class ClientCheckerUDP {
         InetAddress destination = InetAddress.getByName("localhost");
 
         String chaine = "";
-        System.out.println("Tapez vos phrases ou FIN pour arrêter :");
+        System.out.println("Tapez CHK Loggin Mdp ( ou FIN pour arrêter : )");
 
         while(!chaine.equalsIgnoreCase("FIN")) {
             // lecture clavier
@@ -45,8 +51,6 @@ public class ClientCheckerUDP {
 
             System.out.println("Chaine reçue : "+chaine2);
 
-            // on replace la taille du tampon au max
-            // elle a été modifiée lors de la réception
             reception.setLength(tampon.length);
         }
     }

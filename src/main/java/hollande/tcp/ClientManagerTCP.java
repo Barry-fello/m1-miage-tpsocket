@@ -21,7 +21,7 @@ public class ClientManagerTCP {
         // Scanner sur System.in
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Tapez vos phrases ou FIN pour arrêter :");
+        System.out.println("Tapez CHK/ADD/MOD/DEL Loggin Mdp (ou FIN pour arrêter : )");
 
         while(true) {
             // lecture clavier

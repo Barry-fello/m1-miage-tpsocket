@@ -6,6 +6,7 @@ import java.net.InetAddress;
 import java.util.Scanner;
 
 public class ClientManagerUDP {
+
     public static void main(String[] args) throws Exception {
         // Création d'un socket UDP sur un port choisi par le système
         DatagramSocket socket = new DatagramSocket();
@@ -23,7 +24,7 @@ public class ClientManagerUDP {
         InetAddress destination = InetAddress.getByName("localhost");
 
         String chaine = "";
-        System.out.println("Tapez un loggin et un mot de passe ou FIN pour arrêter :");
+        System.out.println("Tapez CHK/ADD/MOD/DEL Loggin Mdp (ou FIN pour arrêter : )");
 
         while(!chaine.equalsIgnoreCase("FIN")) {
             // lecture clavier

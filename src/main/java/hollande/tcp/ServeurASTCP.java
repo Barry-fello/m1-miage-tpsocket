@@ -1,6 +1,8 @@
 package hollande.tcp;
 import hollande.metier.StartServer;
-
+/*
+Serveur pour les versions intermediaires
+**/
 public class ServeurASTCP {
 
     public static void main(String[] args) {
